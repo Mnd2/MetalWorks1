@@ -7803,7 +7803,7 @@ body.boxed {
 
 .ds .top-includes a.fa {
 	border-color: #fff;
-	color: #fff;
+	color: #6667AB;
 }
 
 .ds .top-includes a.fa:hover {
@@ -11610,6 +11610,11 @@ a[class*="fa-"].fa-instagram:hover {
 	color: #3f729b;
 }
 
+a.color-icon.fa-phone,
+a[class*="fa-"].fa-phone:hover {
+	color: #3f729b;
+}
+
 a.color-icon.fa-internet-explorer,
 a[class*="fa-"].fa-internet-explorer:hover {
 	color: #1ebbee;
@@ -12385,6 +12390,12 @@ a.fa-html5.bg-icon:hover,
 .color-bg-icon.fa-instagram,
 a.fa-instagram.bg-icon:hover,
 .fa-instagram.color-icon.border-icon:hover {
+	background-color: #3f729b;
+}
+
+.color-bg-icon.fa-phone,
+a.fa-phone.bg-icon:hover,
+.fa-phone.color-icon.border-icon:hover {
 	background-color: #3f729b;
 }
 
