@@ -226,7 +226,7 @@ p:last-child:after {
 
 img,
 figure {
-	height: auto;
+	height: 100vh;
 	max-width: 100%;
 }
 
