@@ -6118,7 +6118,7 @@ img {
 
 @media (min-width: 768px) {
 	.cover-image {
-		background-position: 50% 50%;
+		background-position: 99% 50%;
 		bottom: 0;
 		display: block;
 		left: 0;
