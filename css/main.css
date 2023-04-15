@@ -1878,6 +1878,7 @@ Owl Default Theme
 .flexslider .slides img {
 	display: block;
 	width: 100%;
+	height: 100vh;
 }
 
 .flex-pauseplay span {
