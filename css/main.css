@@ -10048,7 +10048,7 @@ aside > * + * {
 
 .widget-logo a.logo.flex-column {
 	margin-bottom: 23px;
-	padding-top: 3px;
+	padding-top: 50px;
 }
 
 @media (max-width: 767px) {
