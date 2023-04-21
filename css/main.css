@@ -6926,7 +6926,7 @@ body.boxed {
 }
 
 .item-media img {
-  width: 500px;
+  width: 550px;
         height: 250px;
         object-fit: cover;
 }
@@ -16846,7 +16846,7 @@ h2.header-section {
   font-size: 15px;
   line-height: 30px;
   margin-bottom: 1px;
-  text-align: justify;
+  text-align: center;
 }
 
 @media (max-width: 991px) {
