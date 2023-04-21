@@ -6218,6 +6218,9 @@ img {
 	height: 350px;
 	object-fit: unset;
 }
+.mainimg {
+	object-fit: unset;
+}
 
 .s-overlay.cs.cs2:before {
   background-color: #e26939;
