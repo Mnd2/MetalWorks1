@@ -6218,9 +6218,6 @@ img {
 	height: 350px;
 	object-fit: unset;
 }
-.mainimg {
-	object-fit: unset;
-}
 
 .s-overlay.cs.cs2:before {
   background-color: #e26939;
@@ -6927,7 +6924,12 @@ body.boxed {
 }
 
 .item-media img {
-  width: 100%;
+  width: 600px;
+        height: 350px;
+        object-fit: cover;
+}
+.mainimg {
+	object-fit: unset;
 }
 
 .item-media.cover-image {
