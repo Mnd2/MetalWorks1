@@ -6926,8 +6926,8 @@ body.boxed {
 }
 
 .item-media img {
-  width: 600px;
-        height: 350px;
+  width: 500px;
+        height: 250px;
         object-fit: cover;
 }
 .mainimg {
