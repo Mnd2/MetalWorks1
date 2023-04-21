@@ -6194,6 +6194,26 @@ img {
   opacity: 0.82;
 }
 
+/* .galerykomerciniai {
+	
+} */
+
+.komerciniai {
+	width: 45%;
+	display: block;
+	position: unset !important;
+}
+@media (max-width: 767px){
+	.komerciniai{
+		width: 100%;
+	}
+}
+
+.komercijosimg {
+	width: 600px;
+	height: 350px;
+}
+
 .s-overlay.cs.cs2:before {
   background-color: #e26939;
 }
