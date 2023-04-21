@@ -398,6 +398,9 @@ pre {
   letter-spacing: 0.1em;
   line-height: 1.6em;
   text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
@@ -6097,6 +6100,7 @@ section {
 
 img {
   max-width: 100%;
+  object-fit: contain;
 }
 
 /*parallax*/
@@ -6212,6 +6216,7 @@ img {
 .komercijosimg {
 	width: 600px;
 	height: 350px;
+	object-fit: unset;
 }
 
 .s-overlay.cs.cs2:before {
